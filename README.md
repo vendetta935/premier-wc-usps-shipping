@@ -2,9 +2,9 @@
 
 Wordpress Plugin uses the USPS Rate Calculator API to retrieve shipping rates for WooCommerce shopping cart.
 
-Adds USPS Priority and Express shipping options page to WooCommerce admin menu.
+Adds USPS Shipping options page to WooCommerce admin menu.
 
-Adds separate WooCommerce shipping method for each included USPS shipping method.
+Adds separate WooCommerce shipping method for each included USPS shipping method (Priority and Express).
 
 Assumes REGULAR package size.
 
